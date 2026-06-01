@@ -1,4 +1,4 @@
-# 👗 Yzak Fashion Store
+ 👗 Yzak Fashion Store
 
 <div align="center">
 
@@ -84,7 +84,8 @@ The admin dashboard gives store managers full control over the store:
 | Layer | Technology |
 |---|---|
 | **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | Node.js / Server-side rendering |
+| **Backend** | Python, FastAPI |
+| **Database** | SQLite, SQLAlchemy |
 | **Hosting** | [Render](https://render.com) |
 | **Currency** | Ethiopian Birr (ETB) |
 
